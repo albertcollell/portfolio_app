@@ -1,0 +1,14 @@
+.carousel {
+    padding-right: 50px;
+    max-width: 100%;
+    height: 550px;
+    background-color: rgb(255, 255, 255);
+    overflow-x: auto;
+    white-space: nowrap;
+   
+}
+
+.slide {
+    display: inline-block;
+
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "The One Year Nomad",
+        "subtitle": "Web Development",
+        "heroImg": "../../Assets/oneyearnomad.jpg",
+        "description": "The One Year Nomad travel blog.",
+        "list1Title": "Key functions",
+        "list1": ["Web Development", "Social Media Strategy", "Front End Design", "Photography"],
+        "list2Title": "Key technologies",
+        "list2": ["WordPress", "Elementor", "Adobe Creative Suite"],  
+        "buttonColor": "#880F32",
+        "images": "../../Assets/oneyearnomad-1Artboard1.jpg", 
+        "websiteurl": "https://www.oneyearnomad.com"
+     
+    },
+    {
+        "id": 2,
+        "title": "OM3 Search",
+        "subtitle": "Web Development",
+        "heroImg": "../../Assets/om3search.jpg",
+        "description": "OM3 Search website for a recruiting firm",
+        "list1Title": "Key functions",
+        "list1": ["Web Development", "Front End Design"],
+        "list2Title": "Key technologies",
+        "list2": ["WordPress", "Elementor", "Adobe Creative Suite"],
+        "buttonColor": "#E9AB00",
+        "websiteurl": "https://www.om3search.com" 
+    },
+    {
+        "id": 3,
+        "title": "MOOV - eScooter Sharing",
+        "subtitle": "Start-up & Web Development",
+        "heroImg": "../../Assets/MOOV.png",
+        "description": "The new urban movement of shared ecomobility. The most efficient and affordable electric transportation system in the world, for you and for our cities, with a disruptive Blockchain business model. ",
+        "list1Title": "Key functions:",
+        "list1": ["Strategy and vision.", "Recruited a talented team of mobility professionals.", "Negotiated and created key partnerships with providers and manufacturers.", "Financial modelling, forecasting and building business model.", "Created an operations strategy and plan.", "Co-created Investors Pitch Deck.", "Established relationships with the investors community.", "Lead the funding efforts to date."],
+        "list2Title": "Key Milestones:",
+        "list2": ["Achieved MVP App and Conected vehicles with GPS using Electron from Particle."],
+        "buttonColor": "#FF3700",
+        "websiteurl": "https://www.jointhemoov.com"  
+    },
+    {
+        "id": 4,
+        "title": "AC BOARDS",
+        "subtitle": "Start-up & Web develoment",
+        "heroImg": "../../Assets/MOOV.png",
+        "description": "Smartest Personal Transportation Device – the ACBoard – an innovative electric skateboard created for personal urban transportation and the only electric vehicle suited for air travel.  ",
+        "list1Title": "Key functions:",
+        "list1": ["Strategy and vision.", "Identified and defined market needs.", "Design concept to working prototype.", "Financial modelling, forecasting and building business model.", "Created the business strategy, financial modelling and forecasting.", "Co-created Investors Pitch Deck."],
+        "list2Title": "Key Milestones:",
+        "list2": ["Achieved MVP App and Conected vehicles with GPS using Electron from Particle."],
+        "buttonColor": "#222222",
+        "websiteurl": "https://www.acboards.com"    
+    },
+    {
+        "id": 5,
+        "title": "Aerodynamics Engineer",
+        "subtitle": "CFD & Fluidynamics",
+        "heroImg": "../../Assets/MOOV.png",
+        "buttonColor": "#0093FF",
+        "description": "Responsible CFD simulations and Data Analysis. Worked with cross functional teams in three different countries (Italy, Germany and Sweden) for four years.",
+        "list1Title": "Key functions:",
+        "list1": ["Setup CFD simulations.", "Data Analysis from the simulations", "Problem solving"],
+        "list2Title": "Companies worked for:",
+        "list2": ["Scania Trucks", "Dassault Systems", "Same Deutz-Fahr, Hilti"],
+        "websiteurl": "https://exa.com/"
+    }
+
+]
+
+

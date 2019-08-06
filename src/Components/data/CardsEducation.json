@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "The Free Code Camp",
+        "subtitle": "Coding Bootcamp",
+        "heroImg": "../../Assets/EDUCATION/FreeCodeCamp_logo.png",
+        "description": "Started in May 2019 and studied around 1500 hours, self-taught. ",
+        "list1Title": "Key Learning",
+        "list1": ["Responsive Web Design", "Javascript Algorithims & Data Structures", "Front End Libraries", "Data Visualitzation",  "APIs & Microservices"],
+        "list2Title": "Key Skills",
+        "list2": ["React", "Sass", "Bootstrap", "jQuery", "Redux", "MongoDB"],
+        "buttonColor": "#006400",
+        "websiteurl": "https://www.freecodecamp.com"
+         
+     
+    },
+    {
+        "id": 2,
+        "title": "Mechanical Enginnering",
+        "subtitle": "Double degree",
+        "heroImg": "../../Assets/EDUCATION/University_logos.png",
+        "description": "Double degree obtained in two of the top engineering schools in Europe: Politecnico di Torino (Italy) and Universitat Politecnica de Catalunya (Barcelona, Spain).",
+        "list1Title": "Key Projects:",
+        "list1": ["FSAE tubular chassis design and FEM analysis", "Design and Development of plastic pieces design using 3D software." ],
+        "list2Title": "Special Interests:",
+        "list2": ["Fluid Mechanics", "Thermodynamics", "Machine Design", "Programming"],
+        "buttonColor": "#E9AB00",
+        "websiteurl": "https://www.polito.it"   
+}
+]
+
+
+
